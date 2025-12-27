@@ -1,0 +1,12 @@
+{
+  "telegram": {
+    "token": "your-token-here"
+  },
+  "downloadFolder": "/tmp",
+  "transmission": {
+    "host": "localhost",
+    "port": "0136",
+    "username": "bikram",
+    "password": "0136"
+  }
+}
